@@ -59,7 +59,13 @@
             iconImageSize: [158, 48],
             iconImageOffset: [-100, -50],        
         });
-
         myMap.geoObjects.add(myPlacemark);
+            $('a[href^="#"]').click(function(){
+                var el = $(this).attr('href');
+                $('html').animate({
+                    scrollTop: $(el).offset().top
+                }, 2000);
+                return false;
+            });
         });
             })(jQuery);
