@@ -393,6 +393,7 @@ button:focus{
     max-width: 1410px;
     margin-left: auto;
     margin-right: auto;
+    padding: 0 15px;
 }
 .video__item{
    max-width: 50%;
@@ -890,11 +891,9 @@ button:focus{
       .video__item{
           width: 100%;
           max-width: 100%;
-          padding: 0 15px;
           margin-bottom: 20px;
       }
       .video__desc{
-          padding: 0 15px;
           max-width: 100%;
       }
       .mobile__tel{
