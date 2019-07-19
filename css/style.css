@@ -251,6 +251,7 @@ button:focus{
 }
 .price__block{
     background: #e1e8f0;
+    overflow: hidden;
 }
 .price__table{
     max-width: 1150px;
@@ -266,6 +267,9 @@ button:focus{
     margin-right: auto;
     width: 100%;
     border-collapse: collapse;
+}
+.price__table__name{
+    width: 52%;
 }
 .delivery__table td,
 .price__table td{
@@ -313,7 +317,7 @@ button:focus{
     text-transform: uppercase;
 }
 .price__table__h-value, .delivery__table__h-value{
-    width: 200px;
+    width: 197px;
 }
 .price__table__value,
 .delivery__header{
