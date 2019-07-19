@@ -64,6 +64,7 @@ h2{
     text-transform: uppercase;
     font-family: "Roboto Condensed",  "Arial", sans-serif;
     font-size: 40px;
+    letter-spacing: 1.3px;
 }
 .black{
     font-family: "Roboto black", "Arial", sans-serif;
