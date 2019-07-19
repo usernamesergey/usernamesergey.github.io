@@ -398,7 +398,6 @@ button:focus{
     height: 41px;
 }
 .bannner-bottom__text{
-    margin-bottom: 45px;
     text-transform: uppercase;
     width: 240px;
     margin-left: auto;
@@ -406,6 +405,8 @@ button:focus{
     text-align: center;
     font-weight: bold;
     font-size: 20px;
+    padding: 15px 0 15px 62px;
+    background: url(../img/body/time.svg) no-repeat left center /45px;
 }
 .bannner-bottom__tel{
     text-align: center;
