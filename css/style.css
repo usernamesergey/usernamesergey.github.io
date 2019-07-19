@@ -238,6 +238,9 @@ button:focus{
     left: 20px;
     display: block;
 }
+.vantage__block__item:nth-of-type(3) svg{
+    left: 27px
+}
 .price__header,
 .delivery__header{
     margin-top: 0;
@@ -286,6 +289,7 @@ button:focus{
     font-family: "Roboto black", "Arial", sans-serif;
     padding-top: 45px;
     font-size: 14px;
+    letter-spacing: 1.6px;
 }
 /*.price__table__h-name,
 .delivery__table__h-name{
@@ -308,7 +312,7 @@ button:focus{
     text-transform: uppercase;
 }
 .price__table__h-value, .delivery__table__h-value{
-    width: 195px;
+    width: 200px;
 }
 .price__table__value,
 .delivery__header{
