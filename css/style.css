@@ -373,7 +373,7 @@ button:focus{
 }
 .bannner-bottom__header{
     margin-top: 0;
-    margin-bottom: 0px;
+    margin-bottom: 12px;
     font-size: 45px;
     text-align: center;
     border-bottom: 10px solid #2885cc;
@@ -390,13 +390,7 @@ button:focus{
     background: url(../img/body/car.png) no-repeat center;
     margin: 0  auto 20px auto;
 }
-.bannner-bottom__text svg{
-    transform: translateY(15px);
-    margin-right: 15px;
-    display: inline-block;
-    width: 46px;
-    height: 41px;
-}
+
 .bannner-bottom__text{
     text-transform: uppercase;
     width: 240px;
@@ -407,11 +401,13 @@ button:focus{
     font-size: 20px;
     padding: 15px 0 15px 62px;
     background: url(../img/body/time.svg) no-repeat left center /45px;
+    margin-bottom: 12px;
 }
 .bannner-bottom__tel{
     text-align: center;
     font-weight: bold;
     font-size: 32px;
+    font-family: "Roboto-Condensed","Arial", sans-serif;
 }
 
 .video{
