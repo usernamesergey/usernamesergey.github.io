@@ -269,7 +269,7 @@ button:focus{
     border-collapse: collapse;
 }
 .price__table__name,
-.delivery__table__h-name{
+.delivery__table__name{
     width: 52%;
 }
 .delivery__table td,
