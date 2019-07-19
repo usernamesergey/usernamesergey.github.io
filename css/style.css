@@ -270,7 +270,7 @@ button:focus{
 .delivery__table td,
 .price__table td{
     padding-top: 18px;
-    padding-bottom: 17px;
+    padding-bottom: 18px;
     border-bottom: 1px solid #bbc1c8;
     color: #6f6f70;
 }
@@ -290,7 +290,7 @@ button:focus{
     padding-top: 45px;
     font-size: 14px;
     letter-spacing: 1.6px;
-    padding-bottom: 6px;
+    padding-bottom: 5px;
 }
 /*.price__table__h-name,
 .delivery__table__h-name{
