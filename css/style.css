@@ -269,8 +269,8 @@ button:focus{
 }
 .delivery__table td,
 .price__table td{
-    padding-top: 15px;
-    padding-bottom: 15px;
+    padding-top: 18px;
+    padding-bottom: 18px;
     border-bottom: 1px solid #bbc1c8;
     color: #6f6f70;
 }
