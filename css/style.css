@@ -290,6 +290,7 @@ button:focus{
     padding-top: 45px;
     font-size: 14px;
     letter-spacing: 1.6px;
+    padding-bottom: 6px;
 }
 /*.price__table__h-name,
 .delivery__table__h-name{
