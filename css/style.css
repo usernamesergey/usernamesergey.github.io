@@ -363,11 +363,14 @@ button:focus{
     border-top: 1px solid #336699;
 }
 .bannner-bottom{
-    padding: 72px 0 130px 0;
+    padding: 76px 0 100px 0;
     background: url(../img/body/banner.jpg) no-repeat 0 0 /cover;
     color: #fff;
     margin-bottom: 140px;
     text-align: center;
+}
+.bannner-bottom__icon{
+    margin-bottom: 10px;
 }
 .bannner-bottom__link{
     color: #fff;
@@ -381,7 +384,7 @@ button:focus{
     max-width: 695px;
     margin-left: auto;
     margin-right: auto;
-    letter-spacing: 0.7px;
+    letter-spacing: 0.4px;
 }
 
 .bannner-bottom__text{
