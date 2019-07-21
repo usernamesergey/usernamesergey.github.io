@@ -408,6 +408,7 @@ button:focus{
     font-weight: bold;
     font-size: 32px;
     font-family: "Roboto-Condensed","Arial", sans-serif;
+    letter-spacing: 2.6px
 }
 
 .video{
