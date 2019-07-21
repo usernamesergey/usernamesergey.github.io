@@ -363,7 +363,7 @@ button:focus{
     border-top: 1px solid #336699;
 }
 .bannner-bottom{
-    padding: 76px 0 100px 0;
+    padding: 71px 0 122px 0;
     background: url(../img/body/banner.jpg) no-repeat 0 0 /cover;
     color: #fff;
     margin-bottom: 140px;
@@ -389,7 +389,7 @@ button:focus{
 
 .bannner-bottom__text{
     text-transform: uppercase;
-    width: 240px;
+    width: 209px;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
@@ -404,7 +404,7 @@ button:focus{
     font-weight: bold;
     font-size: 32px;
     font-family: "Roboto-Condensed","Arial", sans-serif;
-    letter-spacing: 2.6px
+    letter-spacing: 0.6px
 }
 
 .video{
