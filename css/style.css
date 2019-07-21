@@ -328,7 +328,7 @@ button:focus{
     margin: 0;
 }
 .notes{
-    padding: 58px 15px 85px 15px;
+    padding: 75px 15px 75px 15px;
     background: #f1f1f1;
 }
 .notes__block{
@@ -367,6 +367,7 @@ button:focus{
     background: url(../img/body/banner.jpg) no-repeat 0 0 /cover;
     color: #fff;
     margin-bottom: 140px;
+    text-align: center;
 }
 .bannner-bottom__link{
     color: #fff;
@@ -381,14 +382,6 @@ button:focus{
     margin-left: auto;
     margin-right: auto;
     letter-spacing: 0.7px;
-}
-.bannner-bottom__header::before{
-    content: '';
-    display: block;
-    width: 125px;
-    height: 80px;
-    background: url(../img/body/car.png) no-repeat center;
-    margin: 0  auto 20px auto;
 }
 
 .bannner-bottom__text{
