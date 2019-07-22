@@ -710,6 +710,11 @@ button:focus{
   
 }
 @media(max-width: 767px){
+    .footer__box{
+        flex-direction: column;
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
     .request__checkbox input[type=checkbox] + label{
         margin-left: 35px;
     }
