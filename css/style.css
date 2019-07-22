@@ -575,7 +575,7 @@ button:focus{
 }
 .contacts__text__header{
     margin-top: 0;
-    margin-bottom: 57px;
+    margin-bottom: 55px;
 }
 .contacts__text__content{
     margin-top: 0px;
@@ -593,7 +593,7 @@ button:focus{
     color: #336699;
     font-family: "Roboto black", "Arial", sans-serif;
     margin-top: 0;
-    margin-bottom: 12px;
+    margin-bottom: 0px;
     text-transform: uppercase;
 }
 .contacts__map img{
