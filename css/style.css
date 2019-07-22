@@ -476,6 +476,7 @@ button:focus{
     padding-bottom: 13px;
     padding-top: 13px;
     padding-left: 15px;
+    padding-right: 15px;
 }
 .request__button{
     margin-bottom: 40px;
