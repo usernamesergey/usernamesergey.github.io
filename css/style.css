@@ -709,6 +709,22 @@ button:focus{
   
 }
 @media(max-width: 767px){
+    .delivery__table td, .price__table td{
+        padding: 20px 0;
+    }
+    .price__table .price__table__h-name,
+    .price__table .price__table__h-measure,
+    .price__table .price__table__h-value,
+    .delivery__table .delivery__table__h-name,
+    .delivery__table .delivery__table__h-measure,
+    .delivery__table .delivery__table__h-value{
+        padding-top: 15px;
+        font-size: 10px;
+        padding-bottom: 15px
+    }
+    .price__header, .delivery__header{
+        padding: 42px 0;
+    }
     .vantage__block__item svg{
         bottom: 15px;
         left: 13px;
@@ -948,7 +964,7 @@ button:focus{
           margin-bottom: 20px;
       }
       .video__desc{
-          max-width: 100%;
+          width: 100%;
       }
       .mobile__tel{
           display: block;
