@@ -421,7 +421,7 @@ button:focus{
 }
 .video__item video{
     max-width: 100%;
-    height: 390px;
+    height: 320px;
 }
 .video__desc{
     width: 50%;
