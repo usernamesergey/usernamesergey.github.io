@@ -639,6 +639,7 @@ button:focus{
     width: 100%;
     background: #1d242a;
     padding: 0 15px;
+    font-size: 13px;
 }
 .footer__box{
     max-width: 1270px;
