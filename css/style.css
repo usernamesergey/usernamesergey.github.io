@@ -711,7 +711,7 @@ button:focus{
 }
 @media(max-width: 767px){
     .request__checkbox input[type=checkbox] + label{
-        margin-right: 35px;
+        margin-left: 35px;
     }
     .delivery__table td, .price__table td{
         padding: 20px 0;
