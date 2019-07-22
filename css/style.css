@@ -648,6 +648,12 @@ button:focus{
     align-items: center;
     justify-content: space-between;
 }
+.footer__copy{
+    margin: 0 -15px;
+}
+.footer__name{
+    margin: 0 -15px;
+}
 .footer__copy__link,
 .footer__copy__text,
 .footer__copy__link,
