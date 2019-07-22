@@ -575,7 +575,10 @@ button:focus{
 }
 .contacts__text__header{
     margin-top: 0;
-    margin-bottom: 65px;
+    margin-bottom: 57px;
+}
+.contacts__text__content{
+    margin-top: 0px;
 }
 .contacts__text,
 .contacts__map{
