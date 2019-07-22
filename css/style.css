@@ -408,7 +408,7 @@ button:focus{
     letter-spacing: 0.6px
 }
 .production{
-    margin-bottom: 140px
+    margin-bottom: 90px
 }
 .video{
     display: flex;
@@ -443,9 +443,10 @@ button:focus{
     text-align: center;
     margin-top: 0;
     color: #fff;
+    margin-bottom: 35px;
 }
 .request__input{
-    max-width: 680px;
+    max-width: 605px;
     margin: auto;
     position: relative;
     margin-bottom: 45px;
@@ -481,7 +482,7 @@ button:focus{
 }
 .request__capcha{
     text-align: center;
-    margin-bottom: 30px;
+    margin-bottom: 40px;
 }
 .request__capcha img{
     max-width: 100%;
@@ -490,7 +491,7 @@ button:focus{
     display: flex;
     align-items: flex-start;
     justify-content: center;
-    max-width: 680px;
+    max-width: 568px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -561,7 +562,7 @@ button:focus{
 .request__desc{
     color: #8d9db2;
     font-family: "Roboto-Light", "Arial", sans-serif;
-    font-size: 14px;
+    font-size: 13px;
 }
 .contacts{
     display: flex;
