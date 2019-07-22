@@ -579,6 +579,7 @@ button:focus{
 }
 .contacts__text__content{
     margin-top: 0px;
+    margin-bottom: 28px;
 }
 .contacts__text,
 .contacts__map{
@@ -973,6 +974,9 @@ button:focus{
 @media (min-width: 1200px) {
     .container {
         max-width: 1170px;
+    }
+    .contacts__block{
+        transform: translateX(45px);
     }
     .info.container{
         max-width: 1410px;
