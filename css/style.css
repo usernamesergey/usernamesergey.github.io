@@ -709,6 +709,10 @@ button:focus{
   
 }
 @media(max-width: 767px){
+    .vantage__block__item svg{
+        bottom: 15px;
+        left: 13px;
+    }
     .banner{
         height: 435px;
     }
