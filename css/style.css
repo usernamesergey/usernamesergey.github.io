@@ -709,6 +709,12 @@ button:focus{
   
 }
 @media(max-width: 767px){
+    .banner__text{
+        padding-top: 58px;
+    }
+    .banner__text__header{
+        margin-bottom: 45px;
+    }
     .br-767{
         display: block;
     }
@@ -740,10 +746,6 @@ button:focus{
     }
     .menu{
         display: none;
-    }
-    .banner__text{
-        top: 50px;
-        left: 16px;
     }
     .banner{
         overflow: hidden;
