@@ -709,6 +709,9 @@ button:focus{
   
 }
 @media(max-width: 767px){
+    .br-767{
+        display: block;
+    }
     #request-form{
         max-width: 560px;
         width: 100%;
