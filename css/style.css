@@ -709,6 +709,9 @@ button:focus{
   
 }
 @media(max-width: 767px){
+    .banner__text__address{
+        max-width: 215px;
+    }
     .banner__text{
         padding-top: 58px;
     }
