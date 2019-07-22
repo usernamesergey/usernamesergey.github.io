@@ -446,10 +446,10 @@ button:focus{
     margin-bottom: 35px;
 }
 .request__input{
-    max-width: 605px;
+    max-width: 615px;
     margin: auto;
     position: relative;
-    margin-bottom: 45px;
+    margin-bottom: 34px;
 }
 .request__input-item{
     display: block;
