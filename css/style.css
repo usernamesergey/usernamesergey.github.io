@@ -1013,6 +1013,11 @@ button:focus{
     margin-right: auto;
     margin-left: auto;
 }
+
+    
+    
+
+    
 @media (min-width: 576px) {
     .container {
         max-width: 540px;
@@ -1028,14 +1033,13 @@ button:focus{
         max-width: 960px;
     }
 }
-@media (min-width: 1200px) {
+@media (min-width: 1230px) { 
     .container {
-        max-width: 1170px;
+        max-width: 1200px;
     }
-    .contacts__block{
-        transform: translateX(45px);
-    }
-    .info.container{
-        max-width: 1410px;
+}
+@media (min-width: 1470px) { 
+    .container {
+        max-width: 1440px; 
     }
 }
