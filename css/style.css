@@ -237,8 +237,8 @@ button:focus{
 }
 .vantage__block__item svg{
     position: absolute;
-    bottom: 30px;
-    left: 20px;
+    bottom: 20px;
+    left: 16px;
     display: block;
 }
 .vantage__block__item:nth-of-type(3) svg{
@@ -273,7 +273,7 @@ button:focus{
 }
 .price__table__name,
 .delivery__table__name{
-    width: 52%;
+    width: 54%;
 }
 .delivery__table td,
 .price__table td{
@@ -295,7 +295,7 @@ button:focus{
     border-bottom: 3px solid #336699 !important;
     color: #336699;
     font-family: "Roboto black", "Arial", sans-serif;
-    padding-top: 45px;
+    padding-top: 58px;
     font-size: 14px;
     letter-spacing: 1.6px;
     padding-bottom: 5px;
