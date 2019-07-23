@@ -114,6 +114,7 @@ button:focus{
     padding-left: 30px;
 }
 .menu-items__item{
+    letter-spacing: 0.5px;
     color: var(--basis);
     text-transform: uppercase;
     font-family: "Roboto-Condensed", "Arial", sans-serif;
