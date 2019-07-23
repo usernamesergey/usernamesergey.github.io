@@ -277,7 +277,7 @@ button:focus{
 }
 .price__table__measure,
 .delivery__table__measure{
-    width: 27%
+    width: 27%;
 }
 .delivery__table td,
 .price__table td{
