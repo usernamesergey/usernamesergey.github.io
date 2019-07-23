@@ -101,23 +101,23 @@ button:focus{
 }
 .menu{
     background: #e7e7e7;
-    padding: 6px 0;
+    padding: 12px 0;
 }
 .menu-items__list{
     list-style: none;
     display: flex;
-    max-width: 500px;
+    max-width: 540px;
     margin: auto;
     justify-content: flex-start;
     flex-wrap: wrap;
     padding: 0;
-    padding-left: 45px;
+    padding-left: 30px;
 }
 .menu-items__item{
     color: var(--basis);
     text-transform: uppercase;
     font-family: "Roboto-Condensed", "Arial", sans-serif;
-    margin-right: 40px;
+    margin-right: 45px;
     margin-bottom: 10px;
     margin-top: 10px;
 }
@@ -125,18 +125,17 @@ button:focus{
     padding: 30px 0px 30px 15px;
     display: flex;
     align-items: center;
-    justify-content: space-between;
     max-width: 1410px;
     margin-left: auto;
     margin-right: auto;
 }
 .info__logo{
     max-width: 240px;
-    margin-right: 15px;
+    margin-right: 100px;
 }
 .info__address{
     max-width: 465px;
-    margin-right: 15px
+    margin-right: 62px
 }
 .info__address__mail{
     padding-left: 35px;
@@ -146,7 +145,7 @@ button:focus{
 .info__address__text{
     padding-left: 35px;
     background: url(../img/header/address.svg) no-repeat 0 0 /26px;
-    padding-top: 10px;
+    padding-top: 0px;
     
 }
 .tel{
@@ -157,7 +156,7 @@ button:focus{
     font-weight: bold;
     display: block;
     font-size: 22px;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
 }
 .tel__button{
     background: #336699;
@@ -179,7 +178,8 @@ button:focus{
     background: url(../img/banner/banner.jpg) no-repeat center /cover;
 }
 .banner__text{
-    padding-top: 130px;
+    letter-spacing: 0.5px;
+    padding-top: 150px;
     max-height: 375px;
     overflow: hidden;
 }
