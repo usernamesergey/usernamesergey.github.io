@@ -275,6 +275,10 @@ button:focus{
 .delivery__table__name{
     width: 54%;
 }
+.price__table__measure,
+.delivery__table__measure{
+    width: 27%
+}
 .delivery__table td,
 .price__table td{
     padding-top: 18px;
