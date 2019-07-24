@@ -1027,6 +1027,9 @@ button:focus{
     .price{
         padding-top: 10px;
     }
+    .price__table__measure{
+        padding-left: 27px;
+    }
     
 }
 .container {
