@@ -732,7 +732,8 @@ button:focus{
     .delivery__table .delivery__table__h-value{
         padding-top: 15px;
         font-size: 10px;
-        padding-bottom: 15px
+        padding-bottom: 15px;
+        letter-spacing: 1px;
     }
     .price__header, .delivery__header{
         padding: 42px 0;
@@ -1006,7 +1007,9 @@ button:focus{
         max-width: 280px;
         padding-top: 33px;
     }
-    
+    .price{
+        padding-top: 10px;
+    }
     
 }
 .container {
