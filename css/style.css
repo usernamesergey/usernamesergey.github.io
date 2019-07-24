@@ -1000,7 +1000,9 @@ button:focus{
     .vantage__block__item{
         width: 100%;
         max-width: 280px;
+        padding-top: 30px;
     }
+    
     
 }
 .container {
