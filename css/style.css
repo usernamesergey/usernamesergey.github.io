@@ -399,7 +399,7 @@ button:focus{
     font-size: 20px;
     padding: 15px 0 15px 62px;
     background: url(../img/body/time.svg) no-repeat left center /45px;
-    margin-bottom: 20px;
+    margin-bottom: 24px;
 }
 .bannner-bottom__tel{
     text-align: center;
