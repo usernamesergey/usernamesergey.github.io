@@ -369,7 +369,7 @@ button:focus{
     padding: 75px 0 100px 0;
     background: url(../img/body/banner.jpg) no-repeat 0 0 /cover;
     color: #fff;
-    margin-bottom: 140px;
+    margin-bottom: 148px;
     text-align: center;
 }
 .bannner-bottom__icon{
@@ -1042,12 +1042,16 @@ button:focus{
     .notes__block.container{
         max-width: 1175px;
     }
+    .video__desc__header{
+        padding-left: 25px;
+    }
+    .video__desc__text{
+        padding-left: 25px;
+    }
 }
 @media (min-width: 1470px) { 
     .container {
         max-width: 1440px; 
     }
-    .notes__block.container{
-        max-width: 1175px;
-    }
+    
 }
