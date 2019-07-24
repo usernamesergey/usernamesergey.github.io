@@ -679,18 +679,6 @@ button:focus{
     .vantage__block__item{
         flex-basis: calc(50% - 30px);
     }
-    .price__table__h-name,
-    .price__table__name,
-    .delivery__table__h-name,
-    .delivery__table__name{
-        padding-left: 15px;
-    }
-    .price__table__h-value,
-    .price__table__value,
-    .delivery__table__h-value,
-    .delivery__table__value{
-        padding-right: 15px;
-    }
 }
 
 @media(max-width: 991px){
@@ -721,6 +709,18 @@ button:focus{
   
 }
 @media(max-width: 767px){
+    .price__table__h-name,
+    .price__table__name,
+    .delivery__table__h-name,
+    .delivery__table__name{
+        padding-left: 15px;
+    }
+    .price__table__h-value,
+    .price__table__value,
+    .delivery__table__h-value,
+    .delivery__table__value{
+        padding-right: 15px;
+    }
     .price__table__name, .delivery__table__name{
         width: 41%;
     }
