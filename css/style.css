@@ -994,6 +994,10 @@ button:focus{
       .contacts{
         padding: 90px 15px;
       }
+      .vantage__block__item:last-child svg{
+          bottom: 5px;
+          left: 20px;
+      }
       
 }
 @media(max-width: 375px){
