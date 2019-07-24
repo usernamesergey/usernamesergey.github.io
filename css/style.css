@@ -336,7 +336,6 @@ button:focus{
     background: #f1f1f1;
 }
 .notes__block{
-    max-width: 1175px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -367,7 +366,7 @@ button:focus{
     border-top: 1px solid #336699;
 }
 .bannner-bottom{
-    padding: 71px 0 122px 0;
+    padding: 68px 0 100px 0;
     background: url(../img/body/banner.jpg) no-repeat 0 0 /cover;
     color: #fff;
     margin-bottom: 140px;
@@ -1041,9 +1040,15 @@ button:focus{
     .container {
         max-width: 1200px;
     }
+    .notes__block.container{
+        max-width: 1175px;
+    }
 }
 @media (min-width: 1470px) { 
     .container {
         max-width: 1440px; 
+    }
+    .notes__block.container{
+        max-width: 1175px;
     }
 }
