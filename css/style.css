@@ -821,7 +821,6 @@ button:focus{
          display: none;
      }
      h1  {
-        color: lighten(#34c4e8, 30%);
         font-family: 'Source Code Pro', "Arial", sans-serif;
         font-weight: 200;
         margin: 0 0 40px;
@@ -836,7 +835,7 @@ button:focus{
       }
       .info__mobile .menu__mob {
         cursor: pointer;
-        margin-left: 15px;
+        margin-left: 10px;
         position: relative;
         width: 30px;
         height: 30px;
@@ -844,7 +843,7 @@ button:focus{
       }
       .info__mobile__logo{
           max-width: 170px;
-          margin-left: 12px;
+          margin-left: 0px;
       }
       .info__mobile__logo img{
           width: 100%
@@ -1000,7 +999,9 @@ button:focus{
 @media(max-width: 375px){
     .vantage__block__item{
         width: 100%;
+        max-width: 280px;
     }
+    
 }
 .container {
     width: 100%;
