@@ -111,10 +111,10 @@ button:focus{
     justify-content: flex-start;
     flex-wrap: wrap;
     padding: 0;
-    padding-left: 30px;
+    padding-left: 35px;
 }
 .menu-items__item{
-    letter-spacing: 0.5px;
+    letter-spacing: 1px;
     color: var(--basis);
     text-transform: uppercase;
     font-family: "Roboto-Condensed", "Arial", sans-serif;
