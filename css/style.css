@@ -572,7 +572,7 @@ button:focus{
 }
 .contacts__block{
     overflow: hidden;
-    width: 315px;
+    max-width: 470px;
     margin-left: auto;
     margin-right: auto;
 }
