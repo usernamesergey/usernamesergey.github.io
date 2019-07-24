@@ -713,6 +713,12 @@ button:focus{
   
 }
 @media(max-width: 767px){
+    .price__table__name, .delivery__table__name{
+        width: 42%;
+    }
+    .price__table__measure, .delivery__table__measure{
+        width: 30%;
+    }
     .footer__box{
         flex-direction: column;
         padding-top: 15px;
@@ -736,7 +742,7 @@ button:focus{
         letter-spacing: 1px;
     }
     .price__header, .delivery__header{
-        padding: 42px 0;
+        padding: 40px 0;
     }
     .vantage__block__item svg{
         bottom: 15px;
