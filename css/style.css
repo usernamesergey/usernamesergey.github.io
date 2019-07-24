@@ -136,7 +136,7 @@ button:focus{
 }
 .info__address{
     max-width: 465px;
-    margin-right: 62px
+    margin-right: 55px
 }
 .info__address__mail{
     padding-left: 35px;
@@ -144,6 +144,8 @@ button:focus{
     padding-top: 10px;
 }
 .info__address__text{
+    margin-top: -5px;
+    padding-top: 5px;
     padding-left: 35px;
     background: url(../img/header/address.svg) no-repeat 0 0 /26px;
     padding-top: 0px;
@@ -214,7 +216,7 @@ button:focus{
 
 .vantage__block{
     display: flex;
-    max-width: 1245px;
+    max-width: 1230px;
     margin-left: auto;
     margin-right: auto;
     flex-wrap: wrap;
@@ -257,7 +259,7 @@ button:focus{
     overflow: hidden;
 }
 .price__table{
-    max-width: 1150px;
+    max-width: 1145px;
     width: 100%;
     background: #e1e8f0;
     border-collapse: collapse;
@@ -265,7 +267,7 @@ button:focus{
     margin-right: auto;
 }
 .delivery__table{
-    max-width: 1150px;
+    max-width: 1145px;
     margin-left: auto;
     margin-right: auto;
     width: 100%;
@@ -273,7 +275,7 @@ button:focus{
 }
 .price__table__name,
 .delivery__table__name{
-    width: 54%;
+    width: 54.5%;
 }
 .price__table__measure,
 .delivery__table__measure{
@@ -332,7 +334,7 @@ button:focus{
     margin: 0;
 }
 .notes{
-    padding: 75px 0px 75px 0px;
+    padding: 80px 0px 65px 0px;
     background: #f1f1f1;
 }
 .notes__block{
@@ -366,7 +368,7 @@ button:focus{
     border-top: 1px solid #336699;
 }
 .bannner-bottom{
-    padding: 75px 0 100px 0;
+    padding: 81px 0 100px 0;
     background: url(../img/body/banner.jpg) no-repeat 0 0 /cover;
     color: #fff;
     margin-bottom: 148px;
@@ -581,6 +583,7 @@ button:focus{
     margin-bottom: 55px;
 }
 .contacts__text__content{
+    max-width: 320px;
     margin-top: 0px;
     margin-bottom: 35px;
 }
