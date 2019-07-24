@@ -717,7 +717,7 @@ button:focus{
         width: 41%;
     }
     .price__table__measure, .delivery__table__measure{
-        width: 30%;
+        width: 33%;
     }
     .footer__box{
         flex-direction: column;
@@ -782,6 +782,7 @@ button:focus{
     }
     .price__block table thead, .delivery__block table thead{
         font-size: 10px;
+        line-height: 1.4;
     }
     .price__block table tbody, .delivery__block table tbody{
         font-size: 13px;
