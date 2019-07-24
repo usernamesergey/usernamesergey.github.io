@@ -417,7 +417,6 @@ button:focus{
 }
 .video__item{
     width: 50%;
-    padding: 0 15px;
 }
 .video__item video{
     max-width: 100%;
@@ -446,18 +445,10 @@ button:focus{
     margin-bottom: 55px;
 }
 .request__input{
-    max-width: 615px;
+    max-width: 580px;
     margin: auto;
     position: relative;
     margin-bottom: 33px;
-}
-.request__input-item{
-    display: block;
-    width: 100%;
-    background: #1c4a79;
-    color: #fff;
-    border: none;
-    
 }
 .request__input::after{
     position: absolute;
@@ -472,10 +463,15 @@ button:focus{
 .request__input-item::-ms-input-placeholder { color: #fff; }
 .request__input-item::placeholder { color: #fff; } 
 .request__input-item{
+    display: block;
+    width: 100%;
+    background: #1c4a79;
+    color: #fff;
+    border: none;
     border-bottom: 1px solid #7792af;
     padding-bottom: 13px;
     padding-top: 13px;
-    padding-left: 15px;
+    padding-left: 0px;
     padding-right: 15px;
 }
 .request__button{
