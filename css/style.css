@@ -713,13 +713,13 @@ button:focus{
     .price__table__name,
     .delivery__table__h-name,
     .delivery__table__name{
-        padding-left: 15px;
+        padding-left: 15px !important;
     }
     .price__table__h-value,
     .price__table__value,
     .delivery__table__h-value,
     .delivery__table__value{
-        padding-right: 15px;
+        padding-right: 15px !important;
     }
     .price__table__name, .delivery__table__name{
         width: 41%;
@@ -736,7 +736,8 @@ button:focus{
         margin-left: 35px;
     }
     .delivery__table td, .price__table td{
-        padding: 20px 0;
+        padding-top: 20px;
+        padding-bottom: 20px;
     }
     .price__table .price__table__h-name,
     .price__table .price__table__h-measure,
