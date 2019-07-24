@@ -679,8 +679,16 @@ button:focus{
     .vantage__block__item{
         flex-basis: calc(50% - 30px);
     }
-    .price__block, .delivery__block{
+    .price__table__h-name,
+    .price__table__name,
+    .delivery__table__h-name,
+    .delivery__table__name{
         padding-left: 15px;
+    }
+    .price__table__h-value,
+    .price__table__value,
+    .delivery__table__h-value,
+    .delivery__table__value{
         padding-right: 15px;
     }
 }
@@ -736,10 +744,11 @@ button:focus{
     .delivery__table .delivery__table__h-name,
     .delivery__table .delivery__table__h-measure,
     .delivery__table .delivery__table__h-value{
-        padding-top: 15px;
+        padding-top: 20px;
         font-size: 10px;
-        padding-bottom: 15px;
+        padding-bottom: 3px;
         letter-spacing: 1px;
+        vertical-align: top;
     }
     .price__header, .delivery__header{
         padding: 40px 0;
