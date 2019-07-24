@@ -648,7 +648,6 @@ button:focus{
     justify-content: space-between;
 }
 .footer__copy{
-    margin: 0 -15px;
     letter-spacing: 0.5px;
 }
 .footer__name{
