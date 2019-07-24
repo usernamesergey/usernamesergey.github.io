@@ -714,7 +714,7 @@ button:focus{
 }
 @media(max-width: 767px){
     .price__table__name, .delivery__table__name{
-        width: 42%;
+        width: 41%;
     }
     .price__table__measure, .delivery__table__measure{
         width: 30%;
