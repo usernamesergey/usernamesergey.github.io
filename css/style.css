@@ -460,8 +460,8 @@ button:focus{
 .request__input::after{
     position: absolute;
     content: "*";
-    right: 0;
-    top: 0px;
+    right: 8px;
+    top: 8px;
     display: inline-block;
     color: #7a8da7;
     font-size: 20px;
