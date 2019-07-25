@@ -1073,9 +1073,3 @@ button:focus{
         padding-left: 25px;
     }
 }
-@media (min-width: 1470px) { 
-    .production{
-        margin-bottom: 155px;
-    }
-    
-}
