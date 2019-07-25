@@ -566,7 +566,7 @@ button:focus{
 }
 .contacts__block{
     overflow: hidden;
-    max-width: 470px;
+    max-width: 560px;
     margin-left: auto;
     margin-right: auto;
 }
