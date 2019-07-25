@@ -380,6 +380,7 @@ button:focus{
     margin-bottom: 148px;
     text-align: center;
     display: flex;
+    flex-direction: column;
 }
 .bannner-bottom__icon{
     margin-bottom: 12px;
