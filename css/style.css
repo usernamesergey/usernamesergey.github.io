@@ -339,7 +339,7 @@ button:focus{
     margin: 0;
 }
 .notes{
-    padding: 60px 0px 68px 0px;
+    padding: 57px 0px 68px 0px;
     background: #f1f1f1;
 }
 .notes__block{
@@ -445,7 +445,7 @@ button:focus{
     line-height: 1.9;
 }
 .request{
-    padding: 64px 15px 75px 15px;
+    padding: 60px 15px 77px 15px;
     background: #1c4a79;
 }
 .request__header{
