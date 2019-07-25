@@ -387,6 +387,7 @@ button:focus{
     margin-bottom: 12px;
 }
 .bannner-bottom__link{
+    display: block;
     color: #fff;
     line-height: 2px;
     text-align: center;
