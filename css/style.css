@@ -425,6 +425,7 @@ button:focus{
 .video__desc{
     width: 50%;
     padding: 0 15px;
+    max-width: 585px;
 }
 .video__desc__header{
     margin-top: 0;
@@ -1074,8 +1075,8 @@ button:focus{
     }
 }
 @media (min-width: 1470px) { 
-    .container {
-        max-width: 1440px; 
+    .production{
+        margin-bottom: 155px;
     }
     
 }
