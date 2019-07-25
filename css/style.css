@@ -389,6 +389,10 @@ button:focus{
 .bannner-bottom__link{
     color: #fff;
     line-height: 2px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 32px;
+    letter-spacing: 1px
 }
 .bannner-bottom__header{
     margin-top: 0;
@@ -409,12 +413,6 @@ button:focus{
     padding: 15px 0 15px 62px;
     background: url(../img/body/time.svg) no-repeat left center /45px;
     margin-bottom: 24px;
-}
-.bannner-bottom__tel{
-    text-align: center;
-    font-weight: bold;
-    font-size: 32px;
-    letter-spacing: 1px
 }
 .production{
     margin-bottom: 97px
