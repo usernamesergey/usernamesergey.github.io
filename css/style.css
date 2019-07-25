@@ -374,7 +374,7 @@ button:focus{
     border-top: 1px solid #336699;
 }
 .bannner-bottom{
-    padding: 81px 0 100px 0;
+    padding: 81px 0 117px 0;
     background: url(../img/body/banner.jpg) no-repeat 0 0 /cover;
     color: #fff;
     margin-bottom: 148px;
@@ -405,7 +405,6 @@ button:focus{
 
 .bannner-bottom__text{
     text-transform: uppercase;
-    width: 240px;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
