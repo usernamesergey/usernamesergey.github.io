@@ -243,15 +243,17 @@ button:focus{
 .vantage__block__item:nth-of-type(3) svg{
     left: 27px
 }
-..delivery__header{
+.delivery__header{
     background: #f1f1f1;
+}
+.price__header{
+    background: #d8e1ec;
 }
 .price__header,
 .delivery__header{
     margin-top: 0;
     margin-bottom: 0px;
     padding: 52px 0;
-    background: #d8e1ec;
     text-align: center;
 }
 .price__block{
