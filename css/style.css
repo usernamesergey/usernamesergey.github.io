@@ -392,7 +392,6 @@ button:focus{
     margin-top: 0;
     margin-bottom: 12px;
     font-size: 45px;
-    text-align: center;
     border-bottom: 10px solid #2885cc;
     letter-spacing: 0.4px;
 }
