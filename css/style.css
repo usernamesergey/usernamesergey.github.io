@@ -662,10 +662,6 @@ button:focus{
 #request-form .modal-body{
     padding-bottom: 50px;
 }
-.contacts{
-    padding-left: 15px;
-    padding-right: 15px;
-  }
 @media(max-width: 1439px){
 
 }
@@ -673,6 +669,10 @@ button:focus{
   
 }
 @media(max-width: 1199px){
+    .contacts{
+        padding-left: 15px;
+        padding-right: 15px;
+    }
     .price__table__h-name,
     .price__table__name,
     .delivery__table__h-name,
