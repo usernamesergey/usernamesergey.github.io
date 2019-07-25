@@ -464,6 +464,7 @@ button:focus{
     top: 0px;
     display: inline-block;
     color: #7a8da7;
+    font-size: 20px;
 }
 .request__input-item::-webkit-input-placeholder { color: #fff; }
 .request__input-item:-ms-input-placeholder { color: #fff; }
