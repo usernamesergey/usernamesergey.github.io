@@ -1077,4 +1077,7 @@ button:focus{
     .video__item{
         padding-right: 15px;
     }
+    .footer__box{
+        padding-right: 33px;
+    }
 }
