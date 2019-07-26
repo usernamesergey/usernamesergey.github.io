@@ -54,6 +54,26 @@ body{
     margin-right: auto;
     margin-left: auto;
 }
+@media (min-width: 576px) {
+    .container {
+        max-width: 540px;
+    }
+}
+@media (min-width: 768px) {
+    .container {
+        max-width: 720px;
+    }
+}
+@media (min-width: 992px) {
+    .container {
+        max-width: 960px;
+    }
+}
+@media (min-width: 1230px) { 
+    .container {
+        max-width: 1200px;
+    }  
+}
 :root{
     --basis: #333;
 }
@@ -1044,31 +1064,7 @@ button:focus{
     }
     
 }
-
-
-    
-    
-
-    
-@media (min-width: 576px) {
-    .container {
-        max-width: 540px;
-    }
-}
-@media (min-width: 768px) {
-    .container {
-        max-width: 720px;
-    }
-}
-@media (min-width: 992px) {
-    .container {
-        max-width: 960px;
-    }
-}
-@media (min-width: 1230px) { 
-    .container {
-        max-width: 1200px;
-    }
+@media (min-width: 1230px){
     .notes__block.container{
         max-width: 1175px;
     }
