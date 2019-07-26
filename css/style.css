@@ -191,6 +191,7 @@ button:focus{
     padding-top: 157px;
     max-height: 395px;
     overflow: hidden;
+    padding-left: 130px;
 }
 .banner__text__header{
     max-width: 775px;
