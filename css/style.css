@@ -1036,19 +1036,7 @@ button:focus{
         padding-left: 27px;
     }
     
-}
-.container {
-    width: 100%;
-    padding-right: 15px;
-    padding-left: 15px;
-    margin-right: auto;
-    margin-left: auto;
-}
-
-    
-    
-
-    
+}    
 @media (min-width: 576px) {
     .container {
         max-width: 540px;
@@ -1067,7 +1055,9 @@ button:focus{
 @media (min-width: 1230px) { 
     .container {
         max-width: 1200px;
-    }
+    } 
+}
+@media (min-width: 1230px) {
     .notes__block.container{
         max-width: 1175px;
     }
