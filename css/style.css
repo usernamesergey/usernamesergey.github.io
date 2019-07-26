@@ -138,7 +138,6 @@ button:focus{
     justify-content: center;
     flex-wrap: wrap;
     padding: 0;
-    padding-left: 35px;
 }
 .menu-items__item{
     letter-spacing: 1px;
