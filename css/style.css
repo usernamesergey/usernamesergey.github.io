@@ -1096,4 +1096,7 @@ button:focus{
     .info{
         justify-content: space-between; 
     }
+    .menu-items__list{
+        padding-left: 45px;
+    }
 }
