@@ -1093,4 +1093,7 @@ button:focus{
     .tel{
         margin: 0;
     }
+    .info{
+        justify-content: space-around; 
+    }
 }
