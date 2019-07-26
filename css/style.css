@@ -134,9 +134,8 @@ button:focus{
 .menu-items__list{
     list-style: none;
     display: flex;
-    max-width: 540px;
     margin: auto;
-    justify-content: flex-start;
+    justify-content: center;
     flex-wrap: wrap;
     padding: 0;
     padding-left: 35px;
