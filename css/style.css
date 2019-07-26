@@ -293,7 +293,6 @@ button:focus{
     overflow: hidden;
 }
 .price__table{
-    max-width: 1145px;
     width: 100%;
     background: #e1e8f0;
     border-collapse: collapse;
@@ -301,7 +300,6 @@ button:focus{
     margin-right: auto;
 }
 .delivery__table{
-    max-width: 1145px;
     margin-left: auto;
     margin-right: auto;
     width: 100%;
