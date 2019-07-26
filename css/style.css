@@ -1094,6 +1094,6 @@ button:focus{
         margin: 0;
     }
     .info{
-        justify-content: space-around; 
+        justify-content: space-between; 
     }
 }
