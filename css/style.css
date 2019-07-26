@@ -675,7 +675,7 @@ button:focus{
     font-size: 13px;
 }
 .footer__box{
-    max-width: 1270px;
+    max-width: 1200px;
     margin: auto;
     display: flex;
     height: 65px;
