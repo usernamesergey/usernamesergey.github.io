@@ -658,9 +658,6 @@ button:focus{
 .footer__copy{
     letter-spacing: 0.5px;
 }
-.footer__name{
-    margin: 0 -15px;
-}
 .footer__copy__link,
 .footer__copy__text,
 .footer__copy__link,
@@ -1079,5 +1076,8 @@ button:focus{
     }
     .video__desc__text{
         padding-left: 25px;
+    }
+    .video__item{
+        padding-right: 15px;
     }
 }
