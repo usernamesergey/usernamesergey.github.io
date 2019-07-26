@@ -427,8 +427,7 @@ button:focus{
 }
 .video{
     display: flex;
-    flex-wrap: wrap;
-    margin: 0 -15px; 
+    flex-wrap: wrap; 
 }
 .video__item{
     width: 50%;
