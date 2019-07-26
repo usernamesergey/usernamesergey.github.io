@@ -241,8 +241,6 @@ button:focus{
 
 .vantage__block{
     display: flex;
-    margin-left: auto;
-    margin-right: auto;
     flex-wrap: wrap;
     margin: 0 -15px;
 }
