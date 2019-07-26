@@ -1084,3 +1084,8 @@ button:focus{
         padding-right: 33px;
     }
 }
+@media (min-width: 1470px) {
+    .banner__text.container{
+        max-width: 1200px;
+    }
+}
