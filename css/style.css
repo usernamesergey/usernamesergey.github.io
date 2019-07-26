@@ -74,6 +74,11 @@ body{
         max-width: 1200px;
     }  
 }
+@media (min-width: 1470px) {
+    .container {
+        max-width: 1440px;
+    }
+}
 :root{
     --basis: #333;
 }
