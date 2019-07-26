@@ -1088,4 +1088,9 @@ button:focus{
     .banner__text.container{
         max-width: 1200px;
     }
+    .info__logo,
+    .info__address,
+    .tel{
+        margin: 0;
+    }
 }
