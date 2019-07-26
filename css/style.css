@@ -154,7 +154,7 @@ button:focus{
     padding: 26px 0px 26px 15px;
     display: flex;
     align-items: center;
-    max-width: 1410px;
+    max-width: 1200px;
     margin-left: auto;
     margin-right: auto;
 }
