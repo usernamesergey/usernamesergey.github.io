@@ -182,7 +182,6 @@ button:focus{
 .banner__text{
     letter-spacing: 0.5px;
     padding-top: 157px;
-    padding-left: 72px;
     max-height: 395px;
     overflow: hidden;
 }
@@ -1037,7 +1036,7 @@ button:focus{
         padding-left: 27px;
     }
     
-}    
+}
 @media (min-width: 576px) {
     .container {
         max-width: 540px;
@@ -1056,9 +1055,7 @@ button:focus{
 @media (min-width: 1230px) { 
     .container {
         max-width: 1200px;
-    } 
-}
-@media (min-width: 1230px) {
+    }
     .notes__block.container{
         max-width: 1175px;
     }
