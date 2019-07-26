@@ -1088,13 +1088,17 @@ button:focus{
     .banner__text.container{
         max-width: 1200px;
     }
-    .info__logo,
-    .info__address,
+    .info__logo{
+        margin-right: 40px;
+    }
+    .info__address{
+        margin-right: 285px;
+    }
     .tel{
         margin: 0;
     }
     .info{
-        justify-content: space-between; 
+        
     }
     .menu-items__list{
         padding-left: 45px;
