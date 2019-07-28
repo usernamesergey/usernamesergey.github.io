@@ -679,7 +679,6 @@ button:focus{
     font-size: 13px;
 }
 .footer__box{
-    max-width: 1200px;
     margin: auto;
     display: flex;
     height: 65px;
@@ -1102,8 +1101,7 @@ button:focus{
         padding-left: 45px;
     }
     .price__block .container,
-    .delivery__block .container,
-    .footer .container{
+    .delivery__block .container,{
         max-width: 1200px;
     }
     .price__table__name, .delivery__table__name{
