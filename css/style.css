@@ -1132,6 +1132,9 @@ button:focus{
     .request{
         padding-top: 65px;
     }
+    .request__input{
+        max-width: 696px;
+    }
     .contacts__block{
         max-width: 670px;
     }
