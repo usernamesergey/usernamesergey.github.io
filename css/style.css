@@ -967,7 +967,7 @@ button:focus{
           text-align: center;
           font-size: 22px;
           font-family: "Roboto-Condensed", "Arial", sans-serif;
-          margin-bottom: 30px;
+          margin-bottom: 25px;
       }
       .mobile__menu__tel::before{
           content: "";
