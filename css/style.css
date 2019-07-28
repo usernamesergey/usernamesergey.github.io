@@ -611,7 +611,7 @@ button:focus{
 }
 .contacts__text__header{
     margin-top: 0;
-    margin-bottom: 60px;
+    margin-bottom: 50px;
 }
 .contacts__text__content{
     max-width: 320px;
@@ -1135,4 +1135,5 @@ button:focus{
     .contacts__block{
         max-width: 670px;
     }
+    
 }
