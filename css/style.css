@@ -1101,7 +1101,8 @@ button:focus{
     .menu-items__list{
         padding-left: 45px;
     }
-    .price__block .container{
+    .price__block .container,
+    .delivery__block .container{
         max-width: 1200px;
     }
     .price__table__name, .delivery__table__name{
