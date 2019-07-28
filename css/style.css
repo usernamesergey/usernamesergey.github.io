@@ -1121,4 +1121,10 @@ button:focus{
     .video__desc__text{
         padding-left: 0;
     }
+    .video__desc__text{
+        margin-bottom: 13px;
+    }
+    .video__item video{
+        height: 395px;
+    }
 }
