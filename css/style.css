@@ -1111,4 +1111,10 @@ button:focus{
     .price__table__measure, .delivery__table__measure{
         width: 31%;
     }
+    .notes__header{
+        margin-left: -15px;
+    }
+    .notes__text{
+        margin-left: -15px;
+    }
 }
