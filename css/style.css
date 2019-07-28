@@ -1101,4 +1101,7 @@ button:focus{
     .menu-items__list{
         padding-left: 45px;
     }
+    .price__block .container{
+        max-width: 1200px;
+    }
 }
