@@ -1117,4 +1117,8 @@ button:focus{
     .notes__text{
         margin-left: -15px;
     }
+    .video__desc__header,
+    .video__desc__text{
+        padding-left: 0;
+    }
 }
