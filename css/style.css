@@ -996,7 +996,7 @@ button:focus{
         display: block;
         margin-bottom: 30px;
         text-align: center;
-        line-height: 1.4px;
+        line-height: 1.4;
       }
       .mobile__menu__mail{
         color: #b4b4b4;
