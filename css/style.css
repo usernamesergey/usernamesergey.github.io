@@ -1104,4 +1104,10 @@ button:focus{
     .price__block .container{
         max-width: 1200px;
     }
+    .price__table__name, .delivery__table__name{
+        width: 51%;
+    }
+    .price__table__measure, .delivery__table__measure{
+        width: 31%;
+    }
 }
