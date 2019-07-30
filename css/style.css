@@ -730,6 +730,9 @@ button:focus{
 }
 
 @media(max-width: 991px){
+    .price__table .price__table__h-name, .price__table .price__table__h-measure, .price__table .price__table__h-value, .delivery__table .delivery__table__h-name, .delivery__table .delivery__table__h-measure, .delivery__table .delivery__table__h-value{
+        font-size: 12px;
+    }
     .menu-middle-click {
         opacity: 0;
     }
