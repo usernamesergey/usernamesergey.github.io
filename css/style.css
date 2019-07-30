@@ -730,8 +730,58 @@ button:focus{
 }
 
 @media(max-width: 991px){
+    .info__mobile{
+        background: #e7e7e7;
+        display: flex;
+        align-items: center;
+        height: 80px;
+        justify-content: space-between;
+    }
+    .info__mobile .menu__mob {
+      cursor: pointer;
+      margin-left: 10px;
+      position: relative;
+      width: 30px;
+      height: 30px;
+      margin-top: 5px;
+    }
+    .info__mobile__logo{
+        max-width: 170px;
+        margin-left: 0px;
+    }
+    .info__mobile__logo img{
+        width: 100%
+    }
+    .info__mobile__envelope{
+        height: 100%;
+        width: 65px;
+        background: url(../img/body/envelope.png) no-repeat center #336699;
+    }
+    .info__mobile .menu-global {
+      backface-visibility: hidden;
+      position: absolute;
+      left: 0;
+      border-top: 2px solid #163859;
+      width: 100%;
+      transition: 0.55s;
+    }
+    .info__mobile .menu-top {
+      top: 0;
+    }
+    .info__mobile .menu-middle {
+      top: 7px;
+    }
+    .info__mobile .menu-bottom {
+      top: 14px;
+    }
+    .info__mobile .menu-top-click {
+      backface-visibility: hidden;
+      top: 15px;
+      transform: rotate(50deg);
+      transition: 0.55s 0.5s;
+    }
     .info{
-        flex-wrap: wrap;
+        display: none;
     }
     .info__logo{
         width: 100%;
@@ -871,64 +921,10 @@ button:focus{
         font-size: 0;
         border: none;
       }
-     .info{
-         display: none;
-     }
      h1  {
         font-family: 'Source Code Pro', "Arial", sans-serif;
         font-weight: 200;
         margin: 0 0 40px;
-      }
-
-      .info__mobile{
-          background: #e7e7e7;
-          display: flex;
-          align-items: center;
-          height: 80px;
-          justify-content: space-between;
-      }
-      .info__mobile .menu__mob {
-        cursor: pointer;
-        margin-left: 10px;
-        position: relative;
-        width: 30px;
-        height: 30px;
-        margin-top: 5px;
-      }
-      .info__mobile__logo{
-          max-width: 170px;
-          margin-left: 0px;
-      }
-      .info__mobile__logo img{
-          width: 100%
-      }
-      .info__mobile__envelope{
-          height: 100%;
-          width: 65px;
-          background: url(../img/body/envelope.png) no-repeat center #336699;
-      }
-      .info__mobile .menu-global {
-        backface-visibility: hidden;
-        position: absolute;
-        left: 0;
-        border-top: 2px solid #163859;
-        width: 100%;
-        transition: 0.55s;
-      }
-      .info__mobile .menu-top {
-        top: 0;
-      }
-      .info__mobile .menu-middle {
-        top: 7px;
-      }
-      .info__mobile .menu-bottom {
-        top: 14px;
-      }
-      .info__mobile .menu-top-click {
-        backface-visibility: hidden;
-        top: 15px;
-        transform: rotate(50deg);
-        transition: 0.55s 0.5s;
       }
       .menu-middle-click {
         opacity: 0;
