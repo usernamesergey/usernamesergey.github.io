@@ -730,6 +730,12 @@ button:focus{
 }
 
 @media(max-width: 991px){
+    .menu-bottom-click {
+        backface-visibility: hidden;
+        top: 15px;
+        transform: rotate(-410deg);
+        transition: 0.55s 0.5s;
+    }
     .menu{
         display: none;
     }
@@ -995,12 +1001,6 @@ button:focus{
       }
       .menu-middle-click {
         opacity: 0;
-      }
-      .menu-bottom-click {
-        backface-visibility: hidden;
-        top: 15px;
-        transform: rotate(-410deg);
-        transition: 0.55s 0.5s;
       }
       .vantage{
           padding: 40px 15px 50px 15px;
