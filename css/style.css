@@ -516,6 +516,7 @@ button:focus{
 .request__button{
     margin-bottom: 50px;
     font-size: 185px;
+    letter-spacing: 3px;
 }
 .request__capcha{
     text-align: center;
