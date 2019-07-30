@@ -734,9 +734,6 @@ button:focus{
 }
 
 @media(max-width: 991px){
-    .banner__text__header{
-        line-height: 1.3
-    }
     .price__table .price__table__h-name, .price__table .price__table__h-measure, .price__table .price__table__h-value, .delivery__table .delivery__table__h-name, .delivery__table .delivery__table__h-measure, .delivery__table .delivery__table__h-value{
         font-size: 10px;
     }
@@ -888,6 +885,7 @@ button:focus{
     }
     .banner__text__header{
         font-size: 40px;
+        line-height: 1.3;
     }
     .banner__text__address{
         font-size: 21px;
