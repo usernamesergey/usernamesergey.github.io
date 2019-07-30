@@ -453,6 +453,9 @@ button:focus{
     flex-wrap: wrap; 
 }
 .video__item{
+    padding-right: 15px;
+}
+.video__item{
     width: 50%;
 }
 .video__item video{
@@ -737,6 +740,7 @@ button:focus{
         display: block;
     }
     .video__item{
+        padding-right: 0;
         width: 100%;
         max-width: 100%;
         margin-bottom: 90px;
@@ -1070,9 +1074,6 @@ button:focus{
     
 }
 @media(min-width: 768px){
-    .video__item{
-        padding-right: 15px;
-    }
 }
 @media (min-width: 1230px){
     .notes__block.container{
