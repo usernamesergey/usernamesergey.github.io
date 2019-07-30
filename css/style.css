@@ -108,7 +108,7 @@ button:focus{
     outline: none;
 }
 .common__button{
-    width: 245px;
+    width: 250px;
     padding: 20px 0;
     border: 3px solid #fff;
     background: #1c4a79;
