@@ -211,8 +211,7 @@ button:focus{
 }
 .banner__text{
     letter-spacing: 0.5px;
-    padding-top: 157px;
-    max-height: 395px;
+    padding-top: 140px;
     overflow: hidden;
     padding-left: 20px;
 }
