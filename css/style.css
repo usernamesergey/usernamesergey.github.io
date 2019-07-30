@@ -1070,6 +1070,11 @@ button:focus{
     }
     
 }
+@media(min-width: 768px){
+    .video__item{
+        padding-right: 15px;
+    }
+}
 @media (min-width: 1230px){
     .notes__block.container{
         max-width: 1175px;
@@ -1079,9 +1084,6 @@ button:focus{
     }
     .video__desc__text{
         padding-left: 25px;
-    }
-    .video__item{
-        padding-right: 15px;
     }
     .footer__box{
         padding-right: 33px;
