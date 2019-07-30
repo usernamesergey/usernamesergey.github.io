@@ -75,14 +75,11 @@ body{
         max-width: 1440px;
     }
 }
-:root{
-    --basis: #333;
-}
 button{
     cursor: pointer;
 }
 a{
-    color: var(--basis);
+    color: #333;
     text-decoration: none;
 }
 a:hover{
@@ -143,7 +140,7 @@ button:focus{
 }
 .menu-items__item{
     letter-spacing: 1px;
-    color: var(--basis);
+    color: #333;
     text-transform: uppercase;
     font-family: "Roboto-Condensed", "Arial", sans-serif;
     margin-right: 45px;
@@ -1040,7 +1037,7 @@ button:focus{
       }
       .mobile__tel{
           display: block;
-          color: var(--basis);
+          color: #333;
           text-align: center;
           font-family: "Roboto black", "Arial", sans-serif;
           font-size: 22px;
