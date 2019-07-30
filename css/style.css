@@ -43,7 +43,6 @@ body{
 }
 .wrap{
     margin: auto;
-    max-width: 1920px;
     position: relative;
     padding-bottom: 65px;
 }
@@ -1143,4 +1142,9 @@ button:focus{
         max-width: 670px;
     }
     
+}
+@media(max-width: 1229px){
+    .tel__link{
+        font-size: 20px;
+    }
 }
