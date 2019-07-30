@@ -883,10 +883,6 @@ button:focus{
     .info__logo{
         width: 100%;
     }
-    .banner__text__header{
-        font-size: 40px;
-        line-height: 1.3;
-    }
     .banner__text__address{
         font-size: 21px;
     }
@@ -895,6 +891,8 @@ button:focus{
     }
     .banner__text__header{
         max-width: 400px;
+        font-size: 40px;
+        line-height: 1.3;
     }
     .contacts__block{
         margin-bottom: 20px;
