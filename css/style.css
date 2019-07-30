@@ -515,7 +515,7 @@ button:focus{
 }
 .request__button{
     margin-bottom: 50px;
-    font-size: 185px;
+    font-size: 18px;
     letter-spacing: 3px;
 }
 .request__capcha{
