@@ -733,6 +733,17 @@ button:focus{
     .price__table .price__table__h-name, .price__table .price__table__h-measure, .price__table .price__table__h-value, .delivery__table .delivery__table__h-name, .delivery__table .delivery__table__h-measure, .delivery__table .delivery__table__h-value{
         font-size: 10px;
     }
+    .video{
+        display: block;
+    }
+    .video__item{
+        width: 100%;
+        max-width: 100%;
+        margin-bottom: 90px;
+    }
+    .video__desc{
+        width: 100%;
+    }
     .menu-middle-click {
         opacity: 0;
     }
@@ -1022,17 +1033,6 @@ button:focus{
       .vantage__block__item{
           width: 285px;
           margin-right: 0;
-      }
-      .video{
-          display: block;
-      }
-      .video__item{
-          width: 100%;
-          max-width: 100%;
-          margin-bottom: 90px;
-      }
-      .video__desc{
-          width: 100%;
       }
       .mobile__tel{
           display: block;
