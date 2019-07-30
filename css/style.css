@@ -165,14 +165,14 @@ button:focus{
 }
 .info__address__mail{
     padding-left: 35px;
-    background: url(../img/header/email.svg) no-repeat 0 6px /26px;
+    background: url(../img/header/email.png) no-repeat 0 6px /26px;
     padding-top: 10px;
 }
 .info__address__text{
     margin-top: -5px;
     padding-top: 5px;
     padding-left: 35px;
-    background: url(../img/header/address.svg) no-repeat 0 0 /26px;    
+    background: url(../img/header/address.png) no-repeat 0 0 /26px;    
 }
 .tel{
     max-width: 205px;
