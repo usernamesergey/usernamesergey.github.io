@@ -730,6 +730,9 @@ button:focus{
 }
 
 @media(max-width: 991px){
+    .menu{
+        display: none;
+    }
     .info__mobile{
         background: #e7e7e7;
         display: flex;
@@ -886,9 +889,7 @@ button:focus{
     h2{
         font-size: 30px !important;
     }
-    .menu{
-        display: none;
-    }
+    
     .banner{
         overflow: hidden;
     }
